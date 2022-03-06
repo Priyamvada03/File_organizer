@@ -25,7 +25,7 @@ let types = {
       "ps",
       "tex",
     ],
-    app: ["exe", "dmg", "pkg", "deb"],
+    app: ["ex","exe", "dmg", "pkg", "deb"],
   };
 
 
